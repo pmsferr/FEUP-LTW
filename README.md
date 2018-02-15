@@ -1,2 +1,2 @@
 # FEUP-LTW
-A repository to host LTW project. A to-do lists web app.
+Repository for [LTW]-web tecnologies class project done with HTML, CSS, PHP, VanillaJS and SQLite3. A to-do lists web app. 
